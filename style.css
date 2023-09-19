@@ -1,0 +1,9 @@
+#heading1{
+    background: gray;
+}
+
+#root .h1{
+    background: #000;
+    width: 20vw;
+    height: 50vh;
+}
